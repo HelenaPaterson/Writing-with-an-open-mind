@@ -5,9 +5,9 @@ Welcome to the quarto textbook template. Customize your book setup by editing th
 ```{r, eval = FALSE}
 create_book(
   path = "book",
-  title = "Book Template",
+  title = "Writing with an open mind",
   subtitle = "",
-  author = "Me",
+  author = "Helena Paterson, James Bartlett and Phil McAleer",
   description = "Book Description",
   output_dir = "docs",
   license = "CC-BY",
